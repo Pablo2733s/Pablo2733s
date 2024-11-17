@@ -31,5 +31,7 @@
 <img aling="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img aling="center" alt="Mysql" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 
-</div>
+</div> 
 
+##
+Sou apaixonado por tecnologia e pela oportunidade de transformar desafios em soluções inovadoras, usando a programação para simplificar tarefas e resolver problemas que realmente fazem a diferença 🚀🚀🚀

@@ -7,7 +7,10 @@
  [![ Portifolio Pessoal ](https://img.shields.io/badge/Portifolio%20Pessoal-click-1abc9c.svg
 )](https://portifolio-pessoal-hazel.vercel.app/) 
 
+[![Istagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pablo.henrique_9/)
+
 ![Pablo2733s GitHub stats](https://github-readme-stats.vercel.app/api?username=Pablo2733s&show_icons=true&theme=dracula)
+
 
 ## Tecnologias que eu uso no meu dia
 
@@ -29,7 +32,4 @@
 <img aling="center" alt="Mysql" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 
 </div>
-
-[![Istagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pablo.henrique_9/)
- 
 
